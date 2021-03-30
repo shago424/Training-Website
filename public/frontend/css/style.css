@@ -1,0 +1,56 @@
+body{
+	background-color: white;
+	
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
+a{
+
+}
+.container{
+	background-color: white;
+}
+.header-top{
+	background-color:  #283747 ;
+	color: white
+	
+
+}
+
+.ourslider{
+	
+		
+}
+
+
+
+
+
+.sidebar{
+	background-color: green ;
+
+}
+.sidebar h5{
+	
+	border: 1px solid  #e3f0e8 ;
+	padding: 10px;
+	
+
+}
+
+
+
+
+.footer_part{
+	
+	padding: 10px;
+	background-color:  #283747 ;
+	color: white
+
+}
